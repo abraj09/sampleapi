@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "payment": [
     {
-      "id": 1,
-      "title": "hello"
+      "hasPaid": true,
+      "txn_id": "ANA_TXN"
     }
   ],
   "profile": {
